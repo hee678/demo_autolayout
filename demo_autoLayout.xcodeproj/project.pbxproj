@@ -265,6 +265,7 @@
 				TargetAttributes = {
 					10FD5B701C58C6C800D50563 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = LJ9JP2B944;
 					};
 					10FD5B891C58C6C800D50563 = {
 						CreatedOnToolsVersion = 7.2;
@@ -475,10 +476,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = demo_autoLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.itiancai.iphone-testing";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.itiancai.iphone-niujiao-dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d1f024cf-b3c2-479d-b472-d9eaeae09334";
 			};
 			name = Debug;
 		};
@@ -486,10 +489,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Tianfeng Securities Co.,LTD. (X8EGGF2K39)";
 				INFOPLIST_FILE = demo_autoLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.itiancai.iphone-testing";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.itiancai.iphone-niujiao-dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2d076d07-9ae3-4d70-b6fd-5828845e8087";
 			};
 			name = Release;
 		};
