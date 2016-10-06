@@ -265,7 +265,6 @@
 				TargetAttributes = {
 					10FD5B701C58C6C800D50563 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = LJ9JP2B944;
 					};
 					10FD5B891C58C6C800D50563 = {
 						CreatedOnToolsVersion = 7.2;
@@ -476,7 +475,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = demo_autoLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.itiancai.iphone-niujiao-dev";
@@ -489,7 +488,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Tianfeng Securities Co.,LTD. (X8EGGF2K39)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = demo_autoLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.itiancai.iphone-niujiao-dev";
